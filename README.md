@@ -1,7 +1,7 @@
 
 ## 🔐 Password Strength Checker using Python
 
-# 🧾 Description
+### 🧾 Description
 
 This Python script evaluates the strength of a user's password based on five key criteria:
 
@@ -23,7 +23,7 @@ If any condition is not met, the script also prints feedback with suggestions to
 
 ---
 
-# ▶️ How to Use
+### ▶️ How to Use
 
 1. Run the script using Python 3.
 2. Enter a password when prompted.
